@@ -56,9 +56,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-<!--   <img width=390 src="https://github-readme-stats-eight-dun-48.vercel.app/api?username=rahul420206&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 src="https://github-readme-stats-eight-dun-48.vercel.app/api/top-langs/?username=rahul420206&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" /> -->
-  <img width=390 src="https://streak-stats.demolab.com/?user=rahul420206&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width=390 src="https://github-readme-stats-eight-dun-48.vercel.app/api?username=rahul420206&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-eight-dun-48.vercel.app/api/top-langs/?username=rahul420206&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=390 src="![streak stats](https://streak-stats.demolab.com/?user=rahul420206&count_private=true&theme=react&border_radius=10)" alt="streak stats" />
 </div>
 <br/><br/>
 <hr/>
