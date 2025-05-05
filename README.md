@@ -12,9 +12,9 @@
 
 <div align="center">
  
- 🔭 Currently I'm working at **CodeTru**
+ 🔭 Currently working as a Tech Intern at **CodeTru**
  
- 🌱 I’m currently learning **Java SpringBoot, AWS**
+ 🌱 Exploring **Python, Java Spring Boot, AWS** and building scalable web applications
 
 💬 Ask me about my **Projects, Repos, Codes... or anything [here](https://github.com/rahul420206/rahul420206/issues)**
 
