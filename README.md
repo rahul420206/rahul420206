@@ -12,7 +12,7 @@
 
 <div align="center">
  
- 🔭 Currently I'm actively looking for a **developer position**
+ 🔭 Currently I'm working at **CodeTru**
  
  🌱 I’m currently learning **Java SpringBoot, AWS**
 
