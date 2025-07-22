@@ -18,7 +18,7 @@
 
 💬 Ask me about my **Projects, Repos, Codes... or anything [here](https://github.com/rahul420206/rahul420206/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **A Developer's skill isn't measured by his degree but by their receding hairline**
 
  </div>
  
