@@ -6,15 +6,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Rahul+Matta!;" />
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer Intern from NIT Andhra Pradesh</h3>
+<h3 align="center">A passionate Software Engineer from NIT Andhra Pradesh</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 Currently working as a Software Development Intern at **CodeTru**
+ 🔭 Currently working as a Software Development Engineer at **Synapx**
  
- 🌱 Exploring **Python, Java Spring Boot, AWS** and building scalable web applications
+ 🌱 Exploring **Python, React, Azure, AI** and building scalable web applications
 
 💬 Ask me about my **Projects, Repos, Codes... or anything [here](https://github.com/rahul420206/rahul420206/issues)**
 
